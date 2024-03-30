@@ -35,3 +35,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FlorinTodor&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+#Connect with me:
+
+  <a href="mailto:florintodorgliga@gmail.com"><img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/></a>
+	<a href="https://www.linkedin.com/in/florin-emanuel-todor-gliga/"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+	<a href="https://www.instagram.com/florintodor_/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
