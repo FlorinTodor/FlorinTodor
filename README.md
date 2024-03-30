@@ -30,7 +30,7 @@
 <img src= "https://www.codewars.com/users/Flo18302/badges/large" width= "350"/>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 <p align="center">
 <a href="https://github.com/FlorinTodor">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FlorinTodor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -38,7 +38,7 @@
 </a>
 </p>
 
-# Connect with me:
+# Connect with me
 
   <a href="mailto:florintodorgliga@gmail.com"><img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/></a>
 	<a href="https://www.linkedin.com/in/florin-emanuel-todor-gliga/"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
