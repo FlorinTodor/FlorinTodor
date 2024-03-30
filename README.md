@@ -18,15 +18,17 @@
 
 ### Software & Tools
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/FFFFFF/external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo.png" alt="external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo"/> <img width="48" height="48" src="https://nmap.org/images/sitelogo.png" alt="nmap"/> <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" alt="wireshark"/><img width="48" height="48" src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/><img width="48" height="48" src="https://img.icons8.com/color/48/old-vmware-logo.png" alt="old-vmware-logo"/>
-<img width="48" height="48" src="https://images.pling.com/img/00/00/13/91/38/1108377/110588-1.png" alt="wxmaxima"/>
+<img width="48" height="48" src="https://images.pling.com/img/00/00/13/91/38/1108377/110588-1.png" alt="wxmaxima"/> 
 
 ### IDEs
 <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" alt="clion"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/code-blocks.png" alt="code-blocks"/><img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
 
 ### Operating Systems
 <img width="48" height="48" src="https://img.icons8.com/plasticine/48/kali-linux.png" alt="kali-linux"/> <img width="48" height="48" src="https://img.icons8.com/color/48/parrot-security--v1.png"  alt="parrot-security--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/linux-mint.png" alt="linux-mint"/> <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redhat_plain_wordmark_logo_icon_146371.png" alt="redhat"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
+
 ### Here's my Codewars stats
 <img src= "https://www.codewars.com/users/Flo18302/badges/large" width= "350"/>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 <p align="center">
