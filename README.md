@@ -12,7 +12,7 @@
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-### My programming languages:
+### My programming languages
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ruby-programming-language.png" alt="ruby-programming-language"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/markdown--v2.png" alt="markdown--v2"/>
 
@@ -25,7 +25,7 @@
 
 ### Operating Systems
 <img width="48" height="48" src="https://img.icons8.com/plasticine/48/kali-linux.png" alt="kali-linux"/> <img width="48" height="48" src="https://img.icons8.com/color/48/parrot-security--v1.png"  alt="parrot-security--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/linux-mint.png" alt="linux-mint"/> <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redhat_plain_wordmark_logo_icon_146371.png" alt="redhat"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
-### Here's my Codewars stats:
+### Here's my Codewars stats
 <img src= "https://www.codewars.com/users/Flo18302/badges/large" width= "350"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
