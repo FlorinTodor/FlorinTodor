@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 🎓 &nbsp; I'm currently studying a Double Degree in Computer Science and Business Management at the University of Granada.
-In my spare time, I learn about cybersecurity and artificial intelligence.
+- :technologist:In my spare time, I learn about cybersecurity and artificial intelligence.
 
 
 
