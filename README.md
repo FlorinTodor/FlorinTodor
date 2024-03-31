@@ -27,7 +27,7 @@
 <img width="48" height="48" src="https://img.icons8.com/plasticine/48/kali-linux.png" alt="kali-linux"/> <img width="48" height="48" src="https://img.icons8.com/color/48/parrot-security--v1.png"  alt="parrot-security--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/linux-mint.png" alt="linux-mint"/> <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redhat_plain_wordmark_logo_icon_146371.png" alt="redhat"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
 
 ### Here's my Codewars stats
-<img src= "https://www.codewars.com/users/Flo18302/badges/large" width= "350"/>
+[<img src= "https://www.codewars.com/users/Flo18302/badges/large" width= "350"/>](https://www.codewars.com/users/Flo18302)
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
