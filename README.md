@@ -3,11 +3,13 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 🎓 &nbsp; I'm currently studying a [Double Degree in Computer Science and Business Management at the University of Granada.](https://grados.ugr.es/Informatica_ADE/)
 
-<br>🚀 In my spare time, I learn about cybersecurity and artificial intelligence.
+## Some things about me:
 
-<br> 🧑‍💻Practice to improve my knowledge in programming, data structures and efficiency.
+<br>🚀 I like to learn about cybersecurity and artificial intelligence.
 
-<br> 📗 I learn about Stoic philosophy and personal development.
+<br> 🧑‍💻 I'm constantly improving my programming, data structures and efficiency.
+
+<br> 📗 I am curious about Stoic philosophy and personal development.
 
 
 
