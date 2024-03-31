@@ -31,6 +31,8 @@
 ### Here's my Codewars stats
 [<img src= "https://www.codewars.com/users/Flo18302/badges/large" width= "350"/>](https://www.codewars.com/users/Flo18302)
 
+### Leetcode Stats
+[![LeetCode Stats](https://leetcode.card.workers.dev/FlorinTodor?theme=forest&font=baloo&extension=null)](https://leetcode.com/FlorinTodor/)
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 <p align="center">
