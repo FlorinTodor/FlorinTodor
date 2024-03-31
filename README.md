@@ -30,7 +30,7 @@
 
 
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics  & Leetcode Stats &  Codewars stats</b>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics  & Leetcode Stats &  Codewars Stats</b>
 <p align="center">
 <a href="https://github.com/FlorinTodor">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FlorinTodor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
