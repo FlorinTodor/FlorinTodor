@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Florin Todor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture> **About me**
 🎓 &nbsp; I'm currently studying a [Double Degree in Computer Science and Business Management at the University of Granada.](https://grados.ugr.es/Informatica_ADE/)
 
 ## Some things about me:
