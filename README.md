@@ -46,4 +46,4 @@
 	<a href="https://www.linkedin.com/in/florin-emanuel-todor-gliga/"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 	<a href="https://www.instagram.com/florintodor_/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
  	<a href="https://www.codewars.com/users/Flo18302"><img width="48" height="48" src="https://img.icons8.com/color/48/codewars.png" alt="codewars"/></a>
-  	<a href="https://leetcode.com/FlorinTodor/"><img width="48" height="48" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png?f=webp&w=256" alt="codewars"/></a>
+  	<a href="https://leetcode.card.workers.dev/?username=FlorinTodor"><img width="48" height="48" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png?f=webp&w=256" alt="codewars"/></a>
