@@ -35,7 +35,7 @@
 <a href="https://github.com/FlorinTodor">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FlorinTodor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FlorinTodor&layout=compact&langs_count=8&theme=algolia"/>
-  <a href="https://leetcode.com/FlorinTodor/">  <img src= "https://leetcode.card.workers.dev/FlorinTodor?theme=forest&font=baloo&extension=null" height="180em"/> </a>
+  <a href="https://leetcode.com/FlorinTodor/">  <img src= "https://leetcode.card.workers.dev/?username=FlorinTodor" height="180em"/> </a>
 <a href="https://www.codewars.com/users/Flo18302"> <img height="50em" src=" https://leetcode.card.workers.dev/?username=FlorinTodor" /> </a>
 </a>
 </p>
