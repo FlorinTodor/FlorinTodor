@@ -39,11 +39,10 @@
 <a href="https://www.codewars.com/users/Flo18302"> <img height="50em" src="https://www.codewars.com/users/Flo18302/badges/large"/> </a>
 </a>
 </p>
-
 # Connect with me
 
   <a href="mailto:florintodorgliga@gmail.com"><img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/></a>
 	<a href="https://www.linkedin.com/in/florin-emanuel-todor-gliga/"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 	<a href="https://www.instagram.com/florintodor_/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
  	<a href="https://www.codewars.com/users/Flo18302"><img width="48" height="48" src="https://img.icons8.com/color/48/codewars.png" alt="codewars"/></a>
-  	<a href="https://leetcode.card.workers.dev/?username=FlorinTodor"><img width="48" height="48" src="https://leetcode.card.workers.dev/?username=FlorinTodor" alt="codewars"/></a>
+  	<a href="https://leetcode.card.workers.dev/?username=FlorinTodor"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo" alt="leetcode"/></a>
