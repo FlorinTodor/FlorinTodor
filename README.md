@@ -39,6 +39,7 @@
 <a href="https://www.codewars.com/users/Flo18302"> <img height="50em" src="https://www.codewars.com/users/Flo18302/badges/large"/> </a>
 </a>
 </p>
+
 # Connect with me
 
   <a href="mailto:florintodorgliga@gmail.com"><img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/></a>
