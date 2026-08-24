@@ -1,7 +1,13 @@
-<h1 align="center">Hi , I'm Florin Todor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Florin Emanuel Todor Gliga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  Linux systems · Cybersecurity · Applied AI —
+  <b><a href="https://florintodor.dev">florintodor.dev</a></b>
+</p>
 
 # <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture> **About me**
-🎓 &nbsp; I'm currently studying a [Double Degree in Computer Science and Business Management at the University of Granada.](https://grados.ugr.es/Informatica_ADE/)
+🎓 &nbsp; I hold a [Double Degree in Computer Science and Business Management from the University of Granada](https://grados.ugr.es/Informatica_ADE/) (2021–2026).
+
+<br>🌐 &nbsp; My projects, with demos and write-ups: **[florintodor.dev](https://florintodor.dev)**
 
 ## Some things about me:
 
@@ -42,6 +48,7 @@
 
 # Connect with me
 
+  <a href="https://florintodor.dev"><img width="48" height="48" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio"/></a>
   <a href="mailto:florintodorgliga@gmail.com"><img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/></a>
 	<a href="https://www.linkedin.com/in/florin-emanuel-todor-gliga/"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 	<a href="https://www.instagram.com/florintodor_/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
