@@ -1,56 +1,29 @@
-<h1 align="center">Hi, I'm Florin Emanuel Todor Gliga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  Linux systems · Cybersecurity · Applied AI —
-  <b><a href="https://florintodor.dev">florintodor.dev</a></b>
-</p>
+# Florin Emanuel Todor Gliga
 
-# <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture> **About me**
-🎓 &nbsp; I hold a [Double Degree in Computer Science and Business Management from the University of Granada](https://grados.ugr.es/Informatica_ADE/) (2021–2026).
+Back-end developer at **Gestiona Sistemas** (Python, remote). Double Degree in Computer
+Engineering and Business Administration, University of Granada (2021–2026).
 
-<br>🌐 &nbsp; My projects, with demos and write-ups: **[florintodor.dev](https://florintodor.dev)**
+I work mostly on **Linux systems, cybersecurity and applied AI**. Every project below has
+its own page with a demo recorded from a real run: **[florintodor.dev](https://florintodor.dev/en/)**
 
-## Some things about me:
+## Projects
 
-<br>🚀 I like to learn about cybersecurity and artificial intelligence.
+| Project | What it is |
+|---|---|
+| [Ciber-AsesorIA/ST](https://florintodor.dev/en/proyectos/ciber-asesoria/) | Final degree project. Compliance engine that maps ENS, NIS2 and DORA onto the technical requirements a company has to meet (Python, FastAPI, Neo4j) |
+| [WAF with ModSecurity](https://github.com/FlorinTodor/SWAP_Trabajo) | Nginx + ModSecurity v3 + OWASP CRS in front of a vulnerable app, with the performance cost measured |
+| [High performance web farm](https://github.com/FlorinTodor/SERVIDORES-WEB-DE-ALTAS-PRESTACIONES-SWAP-) | Eight web servers behind Nginx, HAProxy, Traefik and Envoy, compared under load, with TLS and iptables |
+| [rutina-export](https://github.com/FlorinTodor/rutina-export) | Android app and pipeline that move health data from Health Connect, Samsung Health and Hevy into Notion (Kotlin, Python) |
+| [Full-stack online shop](https://github.com/FlorinTodor/DAI_practicas/tree/main/Practica7_TodorGliga_FlorinEmanuel) | Express + MongoDB API, React front end, deployed in containers behind Caddy |
+| [Bold Burger](https://github.com/DIU3-ADE/UX_CaseStudy) | UX case study, from user research to a working prototype |
 
-<br> 🧑‍💻 I'm constantly improving my programming, data structures and efficiency.
+## Stack
 
-<br> 📗 I am curious about Stoic philosophy and personal development.
+**Back-end:** Python, Flask, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Node.js, Express<br>
+**Systems:** Linux, Bash, Docker, Docker Compose, Nginx, HAProxy, GitHub Actions<br>
+**Security:** ModSecurity, OWASP CRS, iptables, OpenSSL, ENS / NIS2 / DORA<br>
+**AI:** Claude API, RAG, knowledge graphs (Neo4j), LangChain, Ollama
 
+## Contact
 
-
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-### My programming languages
-
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" alt="ruby-programming-language"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/> 
-
-### Software & Tools
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/FFFFFF/external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo.png" alt="external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo"/> <img width="48" height="48" src="https://nmap.org/images/sitelogo.png" alt="nmap"/> <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" alt="wireshark"/><img width="48" height="48" src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/><img width="48" height="48" src="https://img.icons8.com/color/48/old-vmware-logo.png" alt="old-vmware-logo"/>
-<img width="48" height="48" src="https://images.pling.com/img/00/00/13/91/38/1108377/110588-1.png" alt="wxmaxima"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/markdown--v2.png" alt="markdown--v2"/>
-
-### IDEs
-<img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" alt="clion"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>  <img width="48" height="48" src="https://logo.svgcdn.com/l/rubymine.png" alt="ruby-mine"/><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/code-blocks.png" alt="code-blocks"/><img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/> <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Dev-C%2B%2B_logo.png" alt="code-blocks"/>
-
-### Operating Systems
-<img width="48" height="48" src="https://img.icons8.com/plasticine/48/kali-linux.png" alt="kali-linux"/> <img width="48" height="48" src="https://img.icons8.com/color/48/parrot-security--v1.png"  alt="parrot-security--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/linux-mint.png" alt="linux-mint"/> <img width="48" height="48" src="https://img.icons8.com/?size=100&id=17847&format=png&color=000000" alt="redhat"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
-
-
-
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics  & Leetcode Stats &  Codewars Stats</b>
-<p align="center">
-<a href="https://github.com/FlorinTodor">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FlorinTodor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FlorinTodor&layout=compact&langs_count=8&theme=algolia"/>
-
-<a href="https://www.codewars.com/users/Flo18302"> <img height="50em" src="https://www.codewars.com/users/Flo18302/badges/large"/> </a>
-</a>
-</p>
-
-# Connect with me
-
-  <a href="https://florintodor.dev"><img width="48" height="48" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio"/></a>
-  <a href="mailto:florintodorgliga@gmail.com"><img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/></a>
-	<a href="https://www.linkedin.com/in/florin-emanuel-todor-gliga/"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
-	<a href="https://www.instagram.com/florintodor_/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
- 	<a href="https://www.codewars.com/users/Flo18302"><img width="48" height="48" src="https://img.icons8.com/color/48/codewars.png" alt="codewars"/></a>
-  	<a href="https://leetcode.card.workers.dev/?username=FlorinTodor"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo" alt="leetcode"/></a>
+[florintodor.dev](https://florintodor.dev/en/) · [LinkedIn](https://www.linkedin.com/in/florin-emanuel-todor-gliga/) · florintodorgliga@gmail.com
