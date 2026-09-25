@@ -17,6 +17,11 @@ its own page with a demo recorded from a real run: **[florintodor.dev](https://f
 | [Full-stack online shop](https://github.com/FlorinTodor/DAI_practicas/tree/main/Practica7_TodorGliga_FlorinEmanuel) | Express + MongoDB API, React front end, deployed in containers behind Caddy |
 | [Bold Burger](https://github.com/DIU3-ADE/UX_CaseStudy) | UX case study, from user research to a working prototype |
 
+## Writing
+
+- [What it costs to put ModSecurity in front of an application](https://florintodor.dev/en/blog/cuanto-cuesta-un-waf/) - the WAF above, measured in four scenarios, and a false positive at paranoia level 4
+- ["FROM ubuntu:latest" is going to break your project](https://florintodor.dev/en/blog/from-ubuntu-latest-rompe-tu-proyecto/) - the web farm above returned 502 on half its requests a year later, without a line of code changed
+
 ## Stack
 
 **Back-end:** Python, Flask, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Node.js, Express<br>
