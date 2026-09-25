@@ -8,14 +8,20 @@ its own page with a demo recorded from a real run: **[florintodor.dev](https://f
 
 ## Projects
 
-| Project | What it is |
-|---|---|
-| [Ciber-AsesorIA/ST](https://florintodor.dev/en/proyectos/ciber-asesoria/) | Final degree project. Compliance engine that maps ENS, NIS2 and DORA onto the technical requirements a company has to meet (Python, FastAPI, Neo4j) |
-| [WAF with ModSecurity](https://github.com/FlorinTodor/waf-modsecurity) | Nginx + ModSecurity v3 + OWASP CRS in front of a vulnerable app, with the performance cost measured |
-| [High performance web farm](https://github.com/FlorinTodor/granja-web) | Eight web servers behind Nginx, HAProxy, Traefik and Envoy, compared under load, with TLS and iptables |
-| [rutina-export](https://github.com/FlorinTodor/rutina-export) | Android app and pipeline that move health data from Health Connect, Samsung Health and Hevy into Notion (Kotlin, Python) |
-| [Full-stack online shop](https://github.com/FlorinTodor/tienda-online) | Express + MongoDB API, React front end, deployed in containers behind Caddy |
-| [Bold Burger](https://github.com/DIU3-ADE/UX_CaseStudy) | UX case study, from user research to a working prototype |
+<table>
+<tr>
+<td width="50%"><a href="https://florintodor.dev/en/proyectos/ciber-asesoria/"><img src="https://florintodor.dev/img/og/en/ciber-asesoria.jpg" alt="Final degree project: ENS, NIS2 and DORA compliance engine"></a><br><sub><a href="https://florintodor.dev/en/proyectos/ciber-asesoria/">Demo</a> · code private</sub></td>
+<td width="50%"><a href="https://florintodor.dev/en/proyectos/waf-modsecurity/"><img src="https://florintodor.dev/img/og/en/waf-modsecurity.jpg" alt="WAF with ModSecurity and OWASP CRS"></a><br><sub><a href="https://florintodor.dev/en/proyectos/waf-modsecurity/">Demo</a> · <a href="https://github.com/FlorinTodor/waf-modsecurity">Code</a></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://florintodor.dev/en/proyectos/granja-web/"><img src="https://florintodor.dev/img/og/en/granja-web.jpg" alt="High performance web farm"></a><br><sub><a href="https://florintodor.dev/en/proyectos/granja-web/">Demo</a> · <a href="https://github.com/FlorinTodor/granja-web">Code</a></sub></td>
+<td width="50%"><a href="https://florintodor.dev/en/proyectos/rutina-export/"><img src="https://florintodor.dev/img/og/en/rutina-export.jpg" alt="rutina-export: health data to Notion"></a><br><sub><a href="https://florintodor.dev/en/proyectos/rutina-export/">Demo</a> · <a href="https://github.com/FlorinTodor/rutina-export">Code</a></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://florintodor.dev/en/proyectos/tienda-online/"><img src="https://florintodor.dev/img/og/en/tienda-online.jpg" alt="Full-stack online shop"></a><br><sub><a href="https://florintodor.dev/en/proyectos/tienda-online/">Demo</a> · <a href="https://github.com/FlorinTodor/tienda-online">Code</a></sub></td>
+<td width="50%"><a href="https://florintodor.dev/en/proyectos/bold-burger/"><img src="https://florintodor.dev/img/og/en/bold-burger.jpg" alt="Bold Burger UX case study"></a><br><sub><a href="https://florintodor.dev/en/proyectos/bold-burger/">Case study</a> · <a href="https://github.com/DIU3-ADE/UX_CaseStudy">Code</a></sub></td>
+</tr>
+</table>
 
 ## Writing
 
