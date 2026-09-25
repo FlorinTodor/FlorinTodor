@@ -25,8 +25,12 @@ its own page with a demo recorded from a real run: **[florintodor.dev](https://f
 
 ## Writing
 
-- [What it costs to put ModSecurity in front of an application](https://florintodor.dev/en/blog/cuanto-cuesta-un-waf/) - the WAF above, measured in four scenarios, and a false positive at paranoia level 4
-- ["FROM ubuntu:latest" is going to break your project](https://florintodor.dev/en/blog/from-ubuntu-latest-rompe-tu-proyecto/) - the web farm above returned 502 on half its requests a year later, without a line of code changed
+<table>
+<tr>
+<td width="50%"><a href="https://florintodor.dev/en/blog/cuanto-cuesta-un-waf/"><img src="https://florintodor.dev/img/og/en/blog/cuanto-cuesta-un-waf.jpg" alt="What it costs to put ModSecurity in front of an application"></a><br><sub>The WAF above, measured in four scenarios, and a false positive at paranoia level 4</sub></td>
+<td width="50%"><a href="https://florintodor.dev/en/blog/from-ubuntu-latest-rompe-tu-proyecto/"><img src="https://florintodor.dev/img/og/en/blog/from-ubuntu-latest-rompe-tu-proyecto.jpg" alt="&quot;FROM ubuntu:latest&quot; is going to break your project"></a><br><sub>The web farm above returned 502 on half its requests a year later, without a line of code changed</sub></td>
+</tr>
+</table>
 
 ## Stack
 
