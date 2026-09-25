@@ -11,8 +11,8 @@ its own page with a demo recorded from a real run: **[florintodor.dev](https://f
 | Project | What it is |
 |---|---|
 | [Ciber-AsesorIA/ST](https://florintodor.dev/en/proyectos/ciber-asesoria/) | Final degree project. Compliance engine that maps ENS, NIS2 and DORA onto the technical requirements a company has to meet (Python, FastAPI, Neo4j) |
-| [WAF with ModSecurity](https://github.com/FlorinTodor/SWAP_Trabajo) | Nginx + ModSecurity v3 + OWASP CRS in front of a vulnerable app, with the performance cost measured |
-| [High performance web farm](https://github.com/FlorinTodor/SERVIDORES-WEB-DE-ALTAS-PRESTACIONES-SWAP-) | Eight web servers behind Nginx, HAProxy, Traefik and Envoy, compared under load, with TLS and iptables |
+| [WAF with ModSecurity](https://github.com/FlorinTodor/waf-modsecurity) | Nginx + ModSecurity v3 + OWASP CRS in front of a vulnerable app, with the performance cost measured |
+| [High performance web farm](https://github.com/FlorinTodor/granja-web) | Eight web servers behind Nginx, HAProxy, Traefik and Envoy, compared under load, with TLS and iptables |
 | [rutina-export](https://github.com/FlorinTodor/rutina-export) | Android app and pipeline that move health data from Health Connect, Samsung Health and Hevy into Notion (Kotlin, Python) |
 | [Full-stack online shop](https://github.com/FlorinTodor/DAI_practicas/tree/main/Practica7_TodorGliga_FlorinEmanuel) | Express + MongoDB API, React front end, deployed in containers behind Caddy |
 | [Bold Burger](https://github.com/DIU3-ADE/UX_CaseStudy) | UX case study, from user research to a working prototype |
